@@ -1,0 +1,17 @@
+{
+  "name": "pizza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dominos": "^2.1.1",
+    "mocha": "^6.2.1",
+    "nodemon": "^1.19.3",
+    "pizzapi": "0.0.8"
+  }
+}
