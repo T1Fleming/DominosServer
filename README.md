@@ -1,7 +1,7 @@
 # DominosServer
 A janky server that delivers dominos pizza
 
-You basically press this button on the RPi
+You basically press this green button on the RPi
 ![GitHub Logo](/images/rpi.jpg)
 And get this
 ![GitHub Logo](/images/pizza.jpg)
